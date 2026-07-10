@@ -84,34 +84,34 @@ that are grounded, observable, and cloud-native from day one.
 <div align="center">
 
 #### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Go](https://img.shields.io/badge/Go-21262d?style=for-the-badge&logo=go&logoColor=7cc3e0)
+![Python](https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=7da2c7)
+![Bash](https://img.shields.io/badge/Bash-21262d?style=for-the-badge&logo=gnubash&logoColor=8bc78b)
+![YAML](https://img.shields.io/badge/YAML-21262d?style=for-the-badge&logo=yaml&logoColor=c9856a)
 
 #### Cloud & DevOps
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-21262d?style=for-the-badge&logo=kubernetes&logoColor=7b9fd4)
+![OpenShift](https://img.shields.io/badge/OpenShift-21262d?style=for-the-badge&logo=redhatopenshift&logoColor=d47070)
+![Docker](https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=6fa8d6)
+![AWS](https://img.shields.io/badge/AWS-21262d?style=for-the-badge&logo=amazonwebservices&logoColor=c9a45c)
+![Terraform](https://img.shields.io/badge/Terraform-21262d?style=for-the-badge&logo=terraform&logoColor=9b7dc7)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-21262d?style=for-the-badge&logo=githubactions&logoColor=6fa8d6)
 
-#### AI & Data
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/Chroma-4B0082?style=for-the-badge&logo=chroma&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+#### AI & Data &nbsp; ![In Progress](https://img.shields.io/badge/🚀_in--progress-c9d1d9?style=flat-square&labelColor=1c2128)
+![LangChain](https://img.shields.io/badge/LangChain-21262d?style=for-the-badge&logo=langchain&logoColor=8b949e)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-21262d?style=for-the-badge&logo=huggingface&logoColor=d4c27b)
+![PyTorch](https://img.shields.io/badge/PyTorch-21262d?style=for-the-badge&logo=pytorch&logoColor=d48a7b)
+![ChromaDB](https://img.shields.io/badge/Chroma-21262d?style=for-the-badge&logo=databricks&logoColor=9b7dc7)
+![FAISS](https://img.shields.io/badge/FAISS-21262d?style=for-the-badge&logo=meta&logoColor=6fa8d6)
+![OpenAI](https://img.shields.io/badge/OpenAI-21262d?style=for-the-badge&logo=openai&logoColor=9b86c7)
 
 #### Observability & Tools
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-21262d?style=for-the-badge&logo=prometheus&logoColor=d48a6a)
+![Grafana](https://img.shields.io/badge/Grafana-21262d?style=for-the-badge&logo=grafana&logoColor=d49a5c)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-21262d?style=for-the-badge&logo=opentelemetry&logoColor=8b949e)
+![Linux](https://img.shields.io/badge/Linux-21262d?style=for-the-badge&logo=linux&logoColor=d4c27b)
+![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=d48a6a)
+![Vim](https://img.shields.io/badge/Vim-21262d?style=for-the-badge&logo=vim&logoColor=6db06d)
 
 </div>
 
@@ -151,13 +151,13 @@ that are grounded, observable, and cloud-native from day one.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=a7vicky&show_icons=true&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=a7vicky&show_icons=true&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7vicky&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7vicky&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" height="170" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=a7vicky&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<img src="https://streak-stats.demolab.com?user=a7vicky&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
 </div>
 
