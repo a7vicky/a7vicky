@@ -1,24 +1,24 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Abhishek&fontSize=72&fontColor=58a6ff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%40%20Red%20Hat&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Abhishek&fontSize=72&fontColor=7b9fd4&fontAlignY=35&desc=Senior%20Software%20Engineer%20%40%20Red%20Hat&descSize=18&descColor=6e7681&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Where+Cloud-Native+Reliability+Meets+Generative+AI;Kubernetes+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Platform+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7B9FD4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Where+Cloud-Native+Reliability+Meets+Generative+AI;Kubernetes+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Platform+Engineering" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-a7vicky-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/a7vicky)
-[![Blog](https://img.shields.io/badge/Blog-a7vicky-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://a7vicky.github.io/a7vicky-blog)
-[![Red Hat](https://img.shields.io/badge/Red%20Hat-Senior%20SWE-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com)
-[![IIT Jodhpur](https://img.shields.io/badge/IIT%20Jodhpur-PG%20in%20AI-7B2D8E?style=for-the-badge&logo=google-scholar&logoColor=white)](https://iitj.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a7vicky-21262d?style=for-the-badge&logo=linkedin&logoColor=7b9fd4)](https://linkedin.com/in/a7vicky)
+[![Blog](https://img.shields.io/badge/Blog-a7vicky-21262d?style=for-the-badge&logo=hashnode&logoColor=d48a6a)](https://a7vicky.github.io/a7vicky-blog)
+[![Red Hat](https://img.shields.io/badge/Red%20Hat-Senior%20SWE-21262d?style=for-the-badge&logo=redhat&logoColor=d47070)](https://www.redhat.com)
+[![IIT Jodhpur](https://img.shields.io/badge/IIT%20Jodhpur-PG%20in%20AI-21262d?style=for-the-badge&logo=google-scholar&logoColor=9b86c7)](https://iitj.ac.in)
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 </div>
 
@@ -48,7 +48,7 @@ that are grounded, observable, and cloud-native from day one.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Kubernetes-21262d?style=flat-square&logo=kubernetes&logoColor=7b9fd4" /> <img src="https://img.shields.io/badge/OpenShift-21262d?style=flat-square&logo=redhatopenshift&logoColor=d47070" /> <img src="https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=7cc3e0" /> <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=7da2c7" /> <img src="https://img.shields.io/badge/Linux-21262d?style=flat-square&logo=linux&logoColor=d4c27b" />
 
 - Platform engineering at scale on **Kubernetes & OpenShift**
 - Production reliability through **SLOs, SLIs & error budgets**
@@ -64,7 +64,7 @@ that are grounded, observable, and cloud-native from day one.
 
 <br/>
 
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=apache-spark&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Vector_DBs-4B0082?style=flat-square&logo=pinecone&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LLMs-21262d?style=flat-square&logo=openai&logoColor=9b86c7" /> <img src="https://img.shields.io/badge/RAG-21262d?style=flat-square&logo=apache-spark&logoColor=d49a5c" /> <img src="https://img.shields.io/badge/LangChain-21262d?style=flat-square&logo=langchain&logoColor=8b949e" /> <img src="https://img.shields.io/badge/Vector_DBs-21262d?style=flat-square&logo=pinecone&logoColor=6db06d" /> <img src="https://img.shields.io/badge/HuggingFace-21262d?style=flat-square&logo=huggingface&logoColor=d4c27b" />
 
 - **Retrieval-Augmented Generation** (RAG) system design
 - Fine-tuning & prompt engineering for **production LLMs**
@@ -139,9 +139,9 @@ that are grounded, observable, and cloud-native from day one.
 
 <div align="center">
 
-![IIT Jodhpur](https://img.shields.io/badge/IIT_Jodhpur-PG_in_AI-7B2D8E?style=for-the-badge&logo=google-scholar&logoColor=white)
-![LLaMa](https://img.shields.io/badge/Meta-LLaMa_for_Developers-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Intro to LLMs](https://img.shields.io/badge/Coursera-Intro_to_LLMs-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![IIT Jodhpur](https://img.shields.io/badge/IIT_Jodhpur-PG_in_AI-21262d?style=for-the-badge&logo=google-scholar&logoColor=9b86c7)
+![LLaMa](https://img.shields.io/badge/Meta-LLaMa_for_Developers-21262d?style=for-the-badge&logo=meta&logoColor=6fa8d6)
+![Intro to LLMs](https://img.shields.io/badge/Coursera-Intro_to_LLMs-21262d?style=for-the-badge&logo=coursera&logoColor=7b9fd4)
 
 </div>
 
@@ -151,13 +151,13 @@ that are grounded, observable, and cloud-native from day one.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=a7vicky&show_icons=true&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=a7vicky&show_icons=true&hide_border=true&count_private=true&title_color=7b9fd4&icon_color=7b9fd4&text_color=8b949e&bg_color=0d1117&cache_seconds=86400" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7vicky&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7vicky&layout=compact&hide_border=true&title_color=7b9fd4&text_color=8b949e&bg_color=0d1117&cache_seconds=86400" height="170" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=a7vicky&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<img src="https://streak-stats.demolab.com?user=a7vicky&hide_border=true&background=0D1117&stroke=30363d&ring=7b9fd4&fire=d49a5c&currStreakLabel=7b9fd4&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=6e7681" />
 
 </div>
 
@@ -171,9 +171,9 @@ Whether it's **scaling Kubernetes clusters** or **building the next RAG pipeline
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/a7vicky)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=7b9fd4)](https://linkedin.com/in/a7vicky)
 &nbsp;&nbsp;
-[![Blog](https://img.shields.io/badge/Read_my_Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://a7vicky.github.io/a7vicky-blog)
+[![Blog](https://img.shields.io/badge/Read_my_Blog-21262d?style=for-the-badge&logo=hashnode&logoColor=d48a6a)](https://a7vicky.github.io/a7vicky-blog)
 
 </div>
 
